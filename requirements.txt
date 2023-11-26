@@ -1,2 +1,5 @@
 beautifulsoup4
-googlemaps
+geocoder
+fastapi
+uvicorn
+pydantic
