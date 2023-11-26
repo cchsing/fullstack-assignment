@@ -3,3 +3,4 @@ geocoder
 fastapi
 uvicorn
 pydantic
+django
